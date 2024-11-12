@@ -19,13 +19,17 @@ a {
     height:33.33%;
 }
 
-.red {
+.blue {
     background:#00B5E2;
 }
 
-.white {
+.red {
     background:#EF3340;
 }
-.blue {
+.green {
     background:#509E2F;
+}
+img {
+    width:90px;
+    margin:0px 0px 0px 155px;
 }
