@@ -23,15 +23,14 @@ a {
     height: 200px;
     width: 200px;
     border-radius: 50%; 
-    margin-bottom:-50px;
-    margin-top:50px;
     display:block;
   }
     
   .middle {
     height:60%;
     width: 30%;
-    margin:auto;
+    margin-left: 215px; 
+    margin-top: 60px;
     display:block;
 }
 
