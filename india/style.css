@@ -8,8 +8,8 @@ a {
     text-align:center;
 }
 .flag {
-  width:1000px;
-  height:550px;
+  width:900px;
+  height:600px;
   margin:auto;
   border:1px solid black;
 }
@@ -19,21 +19,19 @@ a {
     height:33.33%;
 }
 
-.red {
-    background:#EE1B24;
+.orange {
+    background:#FF671F;
 }
 
 .white {
     background:white;
-   
 }
-.blue {
-    background:#09318F;
+.green {
+    background:#046A38;
 }
-
-.white img{
-    display:block;
+img {
+    aspect-ratio:1/1;
+    height:100%;
     margin:auto;
-    padding-top:16px;
-    
+    display:block;
 }
