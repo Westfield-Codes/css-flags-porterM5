@@ -8,7 +8,7 @@ a {
     text-align:center;
 }
 .flag {
-  width:1000px;
+  width:900px;
   height:600px;
   margin:auto;
   border:1px solid black;
@@ -16,17 +16,18 @@ a {
 }
 
 .stripe {
-    width:100%;
-    height:33.33%;
+    height:100%;
+    width:33.33%;
+    float:left;
+}
+
+.red1 {
+    background-color:#D91023;
 }
 
 .white {
-    background-color: #FFFFFF;
+    background-color:#FFFFFF;
 }
-
-.green {
-    background-color: #00966E;
-}
-.red {
-    background-color: #CC0000;
+.red2 {
+    background-color:#D91023;
 }
