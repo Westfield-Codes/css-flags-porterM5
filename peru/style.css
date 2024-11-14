@@ -17,6 +17,7 @@ a {
 .stripe {
     height:100%;
     width:33.33%;
+    float:left;
 }
 
 .red1 {
