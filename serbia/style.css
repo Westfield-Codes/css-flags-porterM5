@@ -8,11 +8,10 @@ a {
     text-align:center;
 }
 .flag {
-  width:1000px;
+  width:900px;
   height:600px;
   margin:auto;
   border:1px solid black;
-  overflow:auto;
 }
 
 .stripe {
@@ -20,13 +19,18 @@ a {
     height:33.33%;
 }
 
-.white {
-    background-color: #FFFFFF;
+.red {
+    background:#A12D2E;
 }
 
-.green {
-    background-color: #00966E;
+.white {
+    background:#FFFFFF;
 }
-.red {
-    background-color: #CC0000;
+.blue {
+    background:#0C4077;
+}
+.emblem {
+    height:400px;
+    padding-top:69px;
+    padding-left:150px;
 }

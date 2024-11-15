@@ -1,0 +1,43 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:600px;
+  height:300px; 
+  margin:auto;
+  border:1px solid black;
+}
+
+.stripe {
+    width:100%;
+    height:100px;
+}
+
+.dot {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%; 
+    display:block;
+  }
+    
+  .middle {
+    height:60%;
+    width: 30%;
+    margin-left: 215px; 
+    margin-top: 60px;
+    display:block;
+}
+
+.red {
+    background:#C9072A;
+}
+
+.white {
+    background:#FFFFFF;
+}
