@@ -1,0 +1,27 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+#bhutan-flag {
+
+  width:450px;
+  height:300px;
+  margin:auto;
+  border:1px solid black;
+  background: linear-gradient(-33.5deg, #ff6719 50%, #ffce00 50%);
+  
+  /*centerinng*/
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+}
+
+
+
+
